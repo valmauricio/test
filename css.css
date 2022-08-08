@@ -2,6 +2,7 @@ h1 {
     color: blue;
 }
 
+
 .btn-90,
 .btn-90 *,
 .btn-90 :after,
@@ -85,4 +86,8 @@ h1 {
 }
 .btn-90:hover .blobs:after {
   transform: translateX(100%);
+}
+
+body {
+    background-color: black;
 }
